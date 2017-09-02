@@ -19,7 +19,7 @@
 	"passenger-index.motorbike_desc": "We show this text on the button when passenger wants to select the bike type of taxi s/he wants. Cheaper shows that bike is often cheaper than a car.",
 	"passenger-index.s": "🔧 ตั้งค่า",
 	"passenger-index.s_desc": "เราจะแสดงข้อความนี้ที่ด้านล่างของหน้าจอผู้โดนสาร เมื่อ คลิกตั้งค่า",
-	"passenger-index.error_only_known_type": "Unknown choice, please pick bike, car or settings.",
+	"passenger-index.error_only_known_type": "ไม่รู้จักตัวเลือกนี้ กรุณาเลือก รถยนต์, มอเตอร์ไซด์ หรือ ตั้งค่า",
 	"passenger-index.error_only_known_type_desc": "This is error message that is shown to the passenger when s/he picks the taxi type s/he want to order. We show this error when user somehow selected something different from bike or car.",
 	"passenger-request-location.provide_location": "กรุณาแสดงตำแหน่ง (ชื่อสถานที่) เพื่อหารถที่อยู่ใกล้คุณ",
 	"passenger-request-location.provide_location_desc": "We show this message when we want the passenger to provide his/her location.",
